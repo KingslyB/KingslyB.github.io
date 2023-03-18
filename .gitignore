@@ -1,14 +1,2 @@
 
 # Project exclude paths
-/Scripts/app.js
-/Scripts/app.js.map
-/Scripts/authguard.js
-/Scripts/authguard.js.map
-/Scripts/contact.js
-/Scripts/contact.js.map
-/Scripts/namespace.js
-/Scripts/namespace.js.map
-/Scripts/router.js
-/Scripts/router.js.map
-/Scripts/user.js
-/Scripts/user.js.map
